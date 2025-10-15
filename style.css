@@ -12,7 +12,7 @@ html {
 
 header {
   width: 100vw;
-  font-size: .25rem;
+  font-size: 16px;
   text-transform: uppercase;
   text-align: right;
   color: black;
@@ -20,5 +20,5 @@ header {
   position: fixed;
   top: 0px;
   left: 0px;
-  padding: 20px;
+  padding: 5px;
 }
